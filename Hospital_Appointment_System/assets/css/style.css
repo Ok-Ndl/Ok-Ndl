@@ -1,0 +1,48 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background:
+    linear-gradient(135deg, rgba(241, 248, 255, 0.96), rgba(255, 255, 255, 0.98)),
+    url('/Hospital_Appointment_System/assets/images/ChatGPT Image Jun 7, 2026, 10_36_16 PM.png') center/cover no-repeat fixed;
+  color: #17324d;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 .75rem 1.5rem rgba(15, 23, 42, 0.14);
+  transition: .2s ease;
+}
+
+.hero {
+  background:
+    linear-gradient(135deg, rgba(12, 74, 110, 0.86), rgba(36, 99, 134, 0.82)),
+    url('/Hospital_Appointment_System/assets/images/ChatGPT Image Jun 7, 2026, 10_42_47 PM.png') center/cover no-repeat;
+  color: #fff;
+  border-radius: 24px;
+  box-shadow: 0 18px 35px rgba(15, 23, 42, 0.18);
+}
+
+.hero-card,
+.dashboard-card,
+.stat-card {
+  border: 0;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(8px);
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.10);
+}
+
+.dashboard-chip {
+  display: inline-block;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  background: #eaf5ff;
+  color: #0b5ed7;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.badge-soft { background-color: #eaf5ff; color: #0b5ed7; }
+
+.btn-primary { background: linear-gradient(135deg, #0d6efd, #2c7be5); border: none; }
+.btn-outline-primary:hover { background: #0d6efd; color: #fff; }
+.navbar-brand, .nav-link, .text-muted { color: #17324d !important; }
