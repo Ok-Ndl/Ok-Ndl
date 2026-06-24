@@ -1,0 +1,7 @@
+{
+  "name": "gymnastics-node-sim",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
