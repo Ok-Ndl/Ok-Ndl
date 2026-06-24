@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Ok-Ndl
-- 👀 I’m interested in Basketball and Coding
-- 🌱 I’m currently learning Diploma In Systems Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Onke
+- 👀 I’m interested in building useful software and selling it
+- 🌱 I’m currently in my last semester in 3rd year, studying a Diploma In Systems Development
+- 💞️ I’m looking to collaborate on projects that can help a person deal with a problem 
+- 📫 How to reach me on my gmail: ndlovuonke26@gmail.com
+- ⚡ Fun fact: I have a Certificate in Master Speaker Course from SOL (School Of Leadership)
 
 <!---
 Ok-Ndl/Ok-Ndl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
